@@ -1,0 +1,62 @@
+[
+    {
+        "product_id": 4824,
+        "product_name": "Sausages",
+        "category": "Computers",
+        "price": 713.62
+    },
+    {
+        "product_id": 5483,
+        "product_name": "Licensed Chicken",
+        "category": "Hardware",
+        "price": 1951.98
+    },
+    {
+        "product_id": 1940,
+        "product_name": "Fantastic Concrete Shirt",
+        "category": "Monitor",
+        "price": 124.53
+    },
+    {
+        "product_id": 7399,
+        "product_name": "Refined Salad",
+        "category": "Monitor",
+        "price": 1279.45
+    },
+    {
+        "product_id": 4476,
+        "product_name": "Refined Tuna",
+        "category": "Kitchen",
+        "price": 1144.58
+    },
+    {
+        "product_id": 2967,
+        "product_name": "Gloves",
+        "category": "Kitchen",
+        "price": 1510.1
+    },
+    {
+        "product_id": 8238,
+        "product_name": "Practical Pizza",
+        "category": "Kitchen",
+        "price": 1591.18
+    },
+    {
+        "product_id": 7675,
+        "product_name": "Incredible Granite Bike",
+        "category": "Computers",
+        "price": 687.91
+    },
+    {
+        "product_id": 5612,
+        "product_name": "Incredible Rubber Hat",
+        "category": "Smartphone",
+        "price": 106.57
+    },
+    {
+        "product_id": 8236,
+        "product_name": "Hat",
+        "category": "Computers",
+        "price": 1371.35
+    }
+]
