@@ -1,0 +1,902 @@
+[
+    {
+        "user_id": 13,
+        "product_id": 16,
+        "quantity": 6,
+        "product_name": "Wooden Cheese",
+        "category": "Kitchen",
+        "price": 267,
+        "total_spent": 1602
+    },
+    {
+        "user_id": 29,
+        "product_id": 89,
+        "quantity": 9,
+        "product_name": "Chips",
+        "category": "Monitor",
+        "price": 448,
+        "total_spent": 4032
+    },
+    {
+        "user_id": 61,
+        "product_id": 8,
+        "quantity": 6,
+        "product_name": "Intelligent Gloves",
+        "category": "Tools",
+        "price": 177,
+        "total_spent": 1062
+    },
+    {
+        "user_id": 18,
+        "product_id": 89,
+        "quantity": 6,
+        "product_name": "Chips",
+        "category": "Monitor",
+        "price": 448,
+        "total_spent": 2688
+    },
+    {
+        "user_id": 69,
+        "product_id": 90,
+        "quantity": 8,
+        "product_name": "Granite Table",
+        "category": "Hardware",
+        "price": 304,
+        "total_spent": 2432
+    },
+    {
+        "user_id": 54,
+        "product_id": 82,
+        "quantity": 7,
+        "product_name": "Incredible Ball",
+        "category": "Smartphone",
+        "price": 498,
+        "total_spent": 3486
+    },
+    {
+        "user_id": 83,
+        "product_id": 23,
+        "quantity": 2,
+        "product_name": "Small Concrete Chicken",
+        "category": "Hardware",
+        "price": 341,
+        "total_spent": 682
+    },
+    {
+        "user_id": 95,
+        "product_id": 70,
+        "quantity": 1,
+        "product_name": "Salad",
+        "category": "Kitchen",
+        "price": 435,
+        "total_spent": 435
+    },
+    {
+        "user_id": 61,
+        "product_id": 33,
+        "quantity": 7,
+        "product_name": "Pizza",
+        "category": "Monitor",
+        "price": 342,
+        "total_spent": 2394
+    },
+    {
+        "user_id": 19,
+        "product_id": 38,
+        "quantity": 5,
+        "product_name": "Soft Car",
+        "category": "Kitchen",
+        "price": 266,
+        "total_spent": 1330
+    },
+    {
+        "user_id": 21,
+        "product_id": 10,
+        "quantity": 2,
+        "product_name": "Ergonomic Towels",
+        "category": "Monitor",
+        "price": 366,
+        "total_spent": 732
+    },
+    {
+        "user_id": 42,
+        "product_id": 97,
+        "quantity": 7,
+        "product_name": "Ergonomic Wooden Table",
+        "category": "Hardware",
+        "price": 323,
+        "total_spent": 2261
+    },
+    {
+        "user_id": 64,
+        "product_id": 77,
+        "quantity": 6,
+        "product_name": "Pants",
+        "category": "Kitchen",
+        "price": 403,
+        "total_spent": 2418
+    },
+    {
+        "user_id": 90,
+        "product_id": 43,
+        "quantity": 5,
+        "product_name": "Steel Shirt",
+        "category": "Computers",
+        "price": 447,
+        "total_spent": 2235
+    },
+    {
+        "user_id": 46,
+        "product_id": 49,
+        "quantity": 5,
+        "product_name": "Small Metal Ball",
+        "category": "Computers",
+        "price": 460,
+        "total_spent": 2300
+    },
+    {
+        "user_id": 37,
+        "product_id": 90,
+        "quantity": 4,
+        "product_name": "Granite Table",
+        "category": "Hardware",
+        "price": 304,
+        "total_spent": 1216
+    },
+    {
+        "user_id": 93,
+        "product_id": 87,
+        "quantity": 2,
+        "product_name": "Fresh Soap",
+        "category": "Tools",
+        "price": 234,
+        "total_spent": 468
+    },
+    {
+        "user_id": 18,
+        "product_id": 58,
+        "quantity": 5,
+        "product_name": "New Granite Pants",
+        "category": "Furniture",
+        "price": 256,
+        "total_spent": 1280
+    },
+    {
+        "user_id": 28,
+        "product_id": 13,
+        "quantity": 8,
+        "product_name": "Plastic Salad",
+        "category": "Kitchen",
+        "price": 401,
+        "total_spent": 3208
+    },
+    {
+        "user_id": 10,
+        "product_id": 19,
+        "quantity": 6,
+        "product_name": "Fresh Gloves",
+        "category": "Kitchen",
+        "price": 100,
+        "total_spent": 600
+    },
+    {
+        "user_id": 7,
+        "product_id": 84,
+        "quantity": 7,
+        "product_name": "Handcrafted Fresh Table",
+        "category": "Furniture",
+        "price": 264,
+        "total_spent": 1848
+    },
+    {
+        "user_id": 60,
+        "product_id": 41,
+        "quantity": 7,
+        "product_name": "Ergonomic Pants",
+        "category": "Tools",
+        "price": 449,
+        "total_spent": 3143
+    },
+    {
+        "user_id": 37,
+        "product_id": 12,
+        "quantity": 4,
+        "product_name": "Handmade Towels",
+        "category": "Hardware",
+        "price": 423,
+        "total_spent": 1692
+    },
+    {
+        "user_id": 9,
+        "product_id": 20,
+        "quantity": 5,
+        "product_name": "Unbranded Soap",
+        "category": "Tools",
+        "price": 489,
+        "total_spent": 2445
+    },
+    {
+        "user_id": 24,
+        "product_id": 65,
+        "quantity": 8,
+        "product_name": "Practical Computer",
+        "category": "Hardware",
+        "price": 363,
+        "total_spent": 2904
+    },
+    {
+        "user_id": 15,
+        "product_id": 57,
+        "quantity": 5,
+        "product_name": "Intelligent Soft Shirt",
+        "category": "Hardware",
+        "price": 485,
+        "total_spent": 2425
+    },
+    {
+        "user_id": 38,
+        "product_id": 44,
+        "quantity": 6,
+        "product_name": "Rubber Computer",
+        "category": "Smartphone",
+        "price": 116,
+        "total_spent": 696
+    },
+    {
+        "user_id": 90,
+        "product_id": 28,
+        "quantity": 8,
+        "product_name": "Rustic Metal Chicken",
+        "category": "Smartphone",
+        "price": 142,
+        "total_spent": 1136
+    },
+    {
+        "user_id": 60,
+        "product_id": 63,
+        "quantity": 3,
+        "product_name": "Ergonomic Frozen Shoes",
+        "category": "Monitor",
+        "price": 294,
+        "total_spent": 882
+    },
+    {
+        "user_id": 17,
+        "product_id": 19,
+        "quantity": 8,
+        "product_name": "Fresh Gloves",
+        "category": "Kitchen",
+        "price": 100,
+        "total_spent": 800
+    },
+    {
+        "user_id": 8,
+        "product_id": 2,
+        "quantity": 5,
+        "product_name": "Awesome Rubber Table",
+        "category": "Monitor",
+        "price": 345,
+        "total_spent": 1725
+    },
+    {
+        "user_id": 12,
+        "product_id": 80,
+        "quantity": 1,
+        "product_name": "Fantastic Chicken",
+        "category": "Furniture",
+        "price": 343,
+        "total_spent": 343
+    },
+    {
+        "user_id": 78,
+        "product_id": 19,
+        "quantity": 5,
+        "product_name": "Fresh Gloves",
+        "category": "Kitchen",
+        "price": 100,
+        "total_spent": 500
+    },
+    {
+        "user_id": 56,
+        "product_id": 89,
+        "quantity": 9,
+        "product_name": "Chips",
+        "category": "Monitor",
+        "price": 448,
+        "total_spent": 4032
+    },
+    {
+        "user_id": 18,
+        "product_id": 31,
+        "quantity": 4,
+        "product_name": "Gloves",
+        "category": "Hardware",
+        "price": 213,
+        "total_spent": 852
+    },
+    {
+        "user_id": 12,
+        "product_id": 15,
+        "quantity": 3,
+        "product_name": "Cotton Keyboard",
+        "category": "Smartphone",
+        "price": 280,
+        "total_spent": 840
+    },
+    {
+        "user_id": 54,
+        "product_id": 26,
+        "quantity": 4,
+        "product_name": "Tasty Pizza",
+        "category": "Hardware",
+        "price": 315,
+        "total_spent": 1260
+    },
+    {
+        "user_id": 1,
+        "product_id": 88,
+        "quantity": 9,
+        "product_name": "Licensed Granite Car",
+        "category": "Computers",
+        "price": 198,
+        "total_spent": 1782
+    },
+    {
+        "user_id": 29,
+        "product_id": 83,
+        "quantity": 5,
+        "product_name": "Rustic Granite Keyboard",
+        "category": "Smartphone",
+        "price": 317,
+        "total_spent": 1585
+    },
+    {
+        "user_id": 91,
+        "product_id": 46,
+        "quantity": 3,
+        "product_name": "Awesome Pizza",
+        "category": "Tools",
+        "price": 146,
+        "total_spent": 438
+    },
+    {
+        "user_id": 100,
+        "product_id": 41,
+        "quantity": 9,
+        "product_name": "Ergonomic Pants",
+        "category": "Tools",
+        "price": 449,
+        "total_spent": 4041
+    },
+    {
+        "user_id": 24,
+        "product_id": 78,
+        "quantity": 1,
+        "product_name": "Licensed Plastic Sausages",
+        "category": "Kitchen",
+        "price": 142,
+        "total_spent": 142
+    },
+    {
+        "user_id": 36,
+        "product_id": 73,
+        "quantity": 2,
+        "product_name": "Fantastic Rubber Mouse",
+        "category": "Tools",
+        "price": 427,
+        "total_spent": 854
+    },
+    {
+        "user_id": 91,
+        "product_id": 23,
+        "quantity": 5,
+        "product_name": "Small Concrete Chicken",
+        "category": "Hardware",
+        "price": 341,
+        "total_spent": 1705
+    },
+    {
+        "user_id": 72,
+        "product_id": 83,
+        "quantity": 8,
+        "product_name": "Rustic Granite Keyboard",
+        "category": "Smartphone",
+        "price": 317,
+        "total_spent": 2536
+    },
+    {
+        "user_id": 99,
+        "product_id": 52,
+        "quantity": 1,
+        "product_name": "Tuna",
+        "category": "Computers",
+        "price": 415,
+        "total_spent": 415
+    },
+    {
+        "user_id": 15,
+        "product_id": 68,
+        "quantity": 2,
+        "product_name": "Handmade Metal Sausages",
+        "category": "Monitor",
+        "price": 337,
+        "total_spent": 674
+    },
+    {
+        "user_id": 90,
+        "product_id": 34,
+        "quantity": 9,
+        "product_name": "Gently Used Soap",
+        "category": "Furniture",
+        "price": 150,
+        "total_spent": 1350
+    },
+    {
+        "user_id": 43,
+        "product_id": 22,
+        "quantity": 3,
+        "product_name": "Gorgeous Soap",
+        "category": "Monitor",
+        "price": 262,
+        "total_spent": 786
+    },
+    {
+        "user_id": 23,
+        "product_id": 12,
+        "quantity": 7,
+        "product_name": "Handmade Towels",
+        "category": "Hardware",
+        "price": 423,
+        "total_spent": 2961
+    },
+    {
+        "user_id": 98,
+        "product_id": 70,
+        "quantity": 8,
+        "product_name": "Salad",
+        "category": "Kitchen",
+        "price": 435,
+        "total_spent": 3480
+    },
+    {
+        "user_id": 71,
+        "product_id": 51,
+        "quantity": 6,
+        "product_name": "Unbranded Computer",
+        "category": "Computers",
+        "price": 141,
+        "total_spent": 846
+    },
+    {
+        "user_id": 92,
+        "product_id": 20,
+        "quantity": 7,
+        "product_name": "Unbranded Soap",
+        "category": "Tools",
+        "price": 489,
+        "total_spent": 3423
+    },
+    {
+        "user_id": 12,
+        "product_id": 45,
+        "quantity": 6,
+        "product_name": "Plastic Cheese",
+        "category": "Computers",
+        "price": 338,
+        "total_spent": 2028
+    },
+    {
+        "user_id": 32,
+        "product_id": 24,
+        "quantity": 9,
+        "product_name": "Practical Pants",
+        "category": "Smartphone",
+        "price": 136,
+        "total_spent": 1224
+    },
+    {
+        "user_id": 3,
+        "product_id": 67,
+        "quantity": 5,
+        "product_name": "Chicken",
+        "category": "Tools",
+        "price": 491,
+        "total_spent": 2455
+    },
+    {
+        "user_id": 17,
+        "product_id": 53,
+        "quantity": 5,
+        "product_name": "Rubber Chips",
+        "category": "Smartphone",
+        "price": 208,
+        "total_spent": 1040
+    },
+    {
+        "user_id": 63,
+        "product_id": 59,
+        "quantity": 5,
+        "product_name": "Chips",
+        "category": "Computers",
+        "price": 132,
+        "total_spent": 660
+    },
+    {
+        "user_id": 18,
+        "product_id": 24,
+        "quantity": 8,
+        "product_name": "Practical Pants",
+        "category": "Smartphone",
+        "price": 136,
+        "total_spent": 1088
+    },
+    {
+        "user_id": 71,
+        "product_id": 5,
+        "quantity": 8,
+        "product_name": "Handmade Frozen Pants",
+        "category": "Tools",
+        "price": 490,
+        "total_spent": 3920
+    },
+    {
+        "user_id": 22,
+        "product_id": 14,
+        "quantity": 7,
+        "product_name": "Metal Chicken",
+        "category": "Kitchen",
+        "price": 486,
+        "total_spent": 3402
+    },
+    {
+        "user_id": 67,
+        "product_id": 24,
+        "quantity": 1,
+        "product_name": "Practical Pants",
+        "category": "Smartphone",
+        "price": 136,
+        "total_spent": 136
+    },
+    {
+        "user_id": 15,
+        "product_id": 49,
+        "quantity": 4,
+        "product_name": "Small Metal Ball",
+        "category": "Computers",
+        "price": 460,
+        "total_spent": 1840
+    },
+    {
+        "user_id": 13,
+        "product_id": 84,
+        "quantity": 9,
+        "product_name": "Handcrafted Fresh Table",
+        "category": "Furniture",
+        "price": 264,
+        "total_spent": 2376
+    },
+    {
+        "user_id": 93,
+        "product_id": 93,
+        "quantity": 5,
+        "product_name": "Gently Used Plastic Towels",
+        "category": "Smartphone",
+        "price": 420,
+        "total_spent": 2100
+    },
+    {
+        "user_id": 42,
+        "product_id": 23,
+        "quantity": 1,
+        "product_name": "Small Concrete Chicken",
+        "category": "Hardware",
+        "price": 341,
+        "total_spent": 341
+    },
+    {
+        "user_id": 51,
+        "product_id": 52,
+        "quantity": 8,
+        "product_name": "Tuna",
+        "category": "Computers",
+        "price": 415,
+        "total_spent": 3320
+    },
+    {
+        "user_id": 91,
+        "product_id": 88,
+        "quantity": 3,
+        "product_name": "Licensed Granite Car",
+        "category": "Computers",
+        "price": 198,
+        "total_spent": 594
+    },
+    {
+        "user_id": 11,
+        "product_id": 75,
+        "quantity": 4,
+        "product_name": "Small Granite Soap",
+        "category": "Computers",
+        "price": 432,
+        "total_spent": 1728
+    },
+    {
+        "user_id": 67,
+        "product_id": 87,
+        "quantity": 5,
+        "product_name": "Fresh Soap",
+        "category": "Tools",
+        "price": 234,
+        "total_spent": 1170
+    },
+    {
+        "user_id": 9,
+        "product_id": 12,
+        "quantity": 1,
+        "product_name": "Handmade Towels",
+        "category": "Hardware",
+        "price": 423,
+        "total_spent": 423
+    },
+    {
+        "user_id": 36,
+        "product_id": 33,
+        "quantity": 8,
+        "product_name": "Pizza",
+        "category": "Monitor",
+        "price": 342,
+        "total_spent": 2736
+    },
+    {
+        "user_id": 84,
+        "product_id": 95,
+        "quantity": 6,
+        "product_name": "Cotton Chicken",
+        "category": "Monitor",
+        "price": 312,
+        "total_spent": 1872
+    },
+    {
+        "user_id": 70,
+        "product_id": 23,
+        "quantity": 4,
+        "product_name": "Small Concrete Chicken",
+        "category": "Hardware",
+        "price": 341,
+        "total_spent": 1364
+    },
+    {
+        "user_id": 68,
+        "product_id": 51,
+        "quantity": 7,
+        "product_name": "Unbranded Computer",
+        "category": "Computers",
+        "price": 141,
+        "total_spent": 987
+    },
+    {
+        "user_id": 59,
+        "product_id": 42,
+        "quantity": 7,
+        "product_name": "Rubber Keyboard",
+        "category": "Hardware",
+        "price": 146,
+        "total_spent": 1022
+    },
+    {
+        "user_id": 92,
+        "product_id": 100,
+        "quantity": 7,
+        "product_name": "Cotton Soap",
+        "category": "Kitchen",
+        "price": 403,
+        "total_spent": 2821
+    },
+    {
+        "user_id": 64,
+        "product_id": 88,
+        "quantity": 1,
+        "product_name": "Licensed Granite Car",
+        "category": "Computers",
+        "price": 198,
+        "total_spent": 198
+    },
+    {
+        "user_id": 64,
+        "product_id": 90,
+        "quantity": 5,
+        "product_name": "Granite Table",
+        "category": "Hardware",
+        "price": 304,
+        "total_spent": 1520
+    },
+    {
+        "user_id": 64,
+        "product_id": 75,
+        "quantity": 3,
+        "product_name": "Small Granite Soap",
+        "category": "Computers",
+        "price": 432,
+        "total_spent": 1296
+    },
+    {
+        "user_id": 8,
+        "product_id": 36,
+        "quantity": 6,
+        "product_name": "Handcrafted Gloves",
+        "category": "Tools",
+        "price": 425,
+        "total_spent": 2550
+    },
+    {
+        "user_id": 72,
+        "product_id": 21,
+        "quantity": 2,
+        "product_name": "Ergonomic Steel Hat",
+        "category": "Tools",
+        "price": 208,
+        "total_spent": 416
+    },
+    {
+        "user_id": 63,
+        "product_id": 53,
+        "quantity": 5,
+        "product_name": "Rubber Chips",
+        "category": "Smartphone",
+        "price": 208,
+        "total_spent": 1040
+    },
+    {
+        "user_id": 43,
+        "product_id": 20,
+        "quantity": 6,
+        "product_name": "Unbranded Soap",
+        "category": "Tools",
+        "price": 489,
+        "total_spent": 2934
+    },
+    {
+        "user_id": 50,
+        "product_id": 87,
+        "quantity": 9,
+        "product_name": "Fresh Soap",
+        "category": "Tools",
+        "price": 234,
+        "total_spent": 2106
+    },
+    {
+        "user_id": 24,
+        "product_id": 69,
+        "quantity": 5,
+        "product_name": "Intelligent Fresh Shoes",
+        "category": "Smartphone",
+        "price": 409,
+        "total_spent": 2045
+    },
+    {
+        "user_id": 93,
+        "product_id": 21,
+        "quantity": 7,
+        "product_name": "Ergonomic Steel Hat",
+        "category": "Tools",
+        "price": 208,
+        "total_spent": 1456
+    },
+    {
+        "user_id": 98,
+        "product_id": 8,
+        "quantity": 7,
+        "product_name": "Intelligent Gloves",
+        "category": "Tools",
+        "price": 177,
+        "total_spent": 1239
+    },
+    {
+        "user_id": 33,
+        "product_id": 3,
+        "quantity": 2,
+        "product_name": "Towels",
+        "category": "Tools",
+        "price": 126,
+        "total_spent": 252
+    },
+    {
+        "user_id": 56,
+        "product_id": 92,
+        "quantity": 6,
+        "product_name": "Granite Pizza",
+        "category": "Computers",
+        "price": 445,
+        "total_spent": 2670
+    },
+    {
+        "user_id": 65,
+        "product_id": 78,
+        "quantity": 6,
+        "product_name": "Licensed Plastic Sausages",
+        "category": "Kitchen",
+        "price": 142,
+        "total_spent": 852
+    },
+    {
+        "user_id": 97,
+        "product_id": 73,
+        "quantity": 7,
+        "product_name": "Fantastic Rubber Mouse",
+        "category": "Tools",
+        "price": 427,
+        "total_spent": 2989
+    },
+    {
+        "user_id": 57,
+        "product_id": 88,
+        "quantity": 5,
+        "product_name": "Licensed Granite Car",
+        "category": "Computers",
+        "price": 198,
+        "total_spent": 990
+    },
+    {
+        "user_id": 39,
+        "product_id": 74,
+        "quantity": 9,
+        "product_name": "Concrete Sausages",
+        "category": "Smartphone",
+        "price": 355,
+        "total_spent": 3195
+    },
+    {
+        "user_id": 15,
+        "product_id": 64,
+        "quantity": 1,
+        "product_name": "Plastic Bacon",
+        "category": "Smartphone",
+        "price": 457,
+        "total_spent": 457
+    },
+    {
+        "user_id": 59,
+        "product_id": 98,
+        "quantity": 5,
+        "product_name": "Rustic Cotton Fish",
+        "category": "Kitchen",
+        "price": 119,
+        "total_spent": 595
+    },
+    {
+        "user_id": 14,
+        "product_id": 53,
+        "quantity": 4,
+        "product_name": "Rubber Chips",
+        "category": "Smartphone",
+        "price": 208,
+        "total_spent": 832
+    },
+    {
+        "user_id": 57,
+        "product_id": 34,
+        "quantity": 7,
+        "product_name": "Gently Used Soap",
+        "category": "Furniture",
+        "price": 150,
+        "total_spent": 1050
+    },
+    {
+        "user_id": 62,
+        "product_id": 85,
+        "quantity": 3,
+        "product_name": "Cotton Gloves",
+        "category": "Furniture",
+        "price": 218,
+        "total_spent": 654
+    },
+    {
+        "user_id": 91,
+        "product_id": 59,
+        "quantity": 4,
+        "product_name": "Chips",
+        "category": "Computers",
+        "price": 132,
+        "total_spent": 528
+    }
+]
